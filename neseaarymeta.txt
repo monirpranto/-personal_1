@@ -1,0 +1,32 @@
+Color: 
+	primary color: #DC3545 
+	service background: #F7F7F7
+	secondary background: #252525
+	body color: #333;
+	tersiary color: #9f9f9f
+
+
+
+Font Details:
+
+	h1:	font-size: 68px
+		line-height: 81.6px
+		letter-spacing: 0.3px
+
+	h2: font-size:40px
+		line-height: 40px
+		letter-spacing: -.25px
+
+	h4: font-size:32px
+		line-height: 38.4px
+		letter-spacing: 0.
+		
+	h5:	font-size: 28px
+		line-height: 42px
+	
+	h6:	font-size: 18px
+		line-height: 21.6px
+
+	p :	font-size:16px
+
+	
